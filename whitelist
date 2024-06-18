@@ -1,0 +1,14 @@
+local whitelist = {
+    ["SwagAltacc12"] = true,
+    ["Thas_Jayy"] = true,
+    ["nommmmmg"] = true,
+    ["h0nestlyr0bl0x"] = true,
+    ["not_itstehgamer"] = true,
+    ["Ih8TOH"] = true,
+    ["MonicaFlores32"] = true,
+    ["1xAgentWandox1"] = true,
+	  ["itstehgamer_GH"] = true,
+    ["ibroughtsometreats"] = true
+}
+
+return whitelist
