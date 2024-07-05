@@ -10,7 +10,8 @@ local whitelist = {
     ["MonicaFlores32"] = true,
     ["1xAgentWandox1"] = true,
     ["itstehgamer_GH"] = true,
-    ["ibroughtsometreats"] = true
+    ["ibroughtsometreats"] = true,
+    ["vacationbibleschool"] = true
 }
 
 return whitelist
