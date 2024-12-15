@@ -11,7 +11,8 @@ local whitelist = {
     ["1xAgentWandox1"] = true,
     ["itstehgamer_GH"] = true,
     ["ibroughtsometreats"] = true,
-    ["vacationbibleschool"] = true
+    ["vacationbibleschool"] = true,
+    ["liberationtoucan"] = true
 }
 
 return whitelist
